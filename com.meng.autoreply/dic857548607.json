@@ -1,0 +1,14 @@
+﻿{
+"这里是":["紫苑群"],
+"搬砖":["imageFolder:pic/搬砖/"],
+"大鸽.*更.*了.*[吗|么|没]":["image:pic/dagegengxin.jpg"], 
+"群主色图":["image:r15/54278022_p0_master1200.jpg","image:r15/56326323_p0_master1200.jpg","image:r15/58443424_p0_master1200.jpg","image:r15/59732496_p0_master1200.jpg","image:r15/60785592_p0.jpg","image:r15/66090145_p0.jpg","image:r15/66429714_p0.jpg","image:r15/68679674_p0.jpg","image:r15/70454368_p0.jpg"],
+"蓝.*色图":["image:r15/22c03b64b659bbdc4fed6d2ab42057ed-sample.jpg"],
+"色图":["imageFolder:r15/"],
+"复读":["imageFolder:pic/复读/"], 
+"我[是|事].*萌新": ["atFromQQ:你已经是群萌新了 快打个绀LNN给群友们看看吧"],
+"怎么打":["炸","炸啊","炸吧","炸呗","炸了"],
+"^((https|http|ftp|rtsp|mms)?:\\/\\/)[^\\s]": ["这网址还行"], 
+"去.*打.*[红妖永花风殿船庙城绀璋]": ["image:pic/sjf.jpg"],
+"magnet:\\?xt=urn:btih": ["f73d08e360da9ef46b5de581a76a0db59eecfac6"]
+}
