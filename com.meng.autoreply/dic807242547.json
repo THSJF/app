@@ -1,14 +1,15 @@
 ﻿{
 "这里是":["打牌催更群"],
-"大鸽.*更.*了.*[吗|么|没]":["image:pic/dagegengxin.jpg"], 
-"搬砖":["imageFolder:pic/搬砖/"],
-"色图":["imageFolder:r15/"],
-"绀珠传": ["th15.exe=心之所在播放器+纯符猴猴乐","image:pic/th15.jpg"],
-"星莲船": ["th12.exe=春之岸边播放器&esc+r","image:pic/th12.jpg"],
-"复读":["imageFolder:pic/复读/"], 
+"\\[CQ:sign": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
+"大鸽.*更.*了.*[吗|么|没]":["image:pic/dagegengxin.jpg:--image--"], 
+"搬砖":["imageFolder:pic/搬砖/:--image--"],
+"色图":["imageFolder:r15/:--image--"],
+"绀珠传": ["th15.exe=心之所在播放器+纯符猴猴乐","image:pic/th15.jpg:--image--"],
+"星莲船": ["th12.exe=春之岸边播放器&esc+r","image:pic/th12.jpg:--image--"],
+"复读":["imageFolder:pic/复读/:--image--"], 
 "我[是|事].*萌新": ["atFromQQ:你已经是群萌新了 快打个绀LNN给群友们看看吧"],
 "怎么打":["炸","炸啊","炸吧","炸呗","炸了"],
 "^((https|http|ftp|rtsp|mms)?:\\/\\/)[^\\s]": ["这网址还行"], 
-"去.*打.*[红妖永花风殿船庙城绀璋]": ["imageFolder:pic/sjf/"],
+"去.*打.*[红妖永花风殿船庙城绀璋]": ["imageFolder:pic/sjf/:--image--"],
 "magnet:\\?xt=urn:btih": ["f73d08e360da9ef46b5de581a76a0db59eecfac6"]
 }
