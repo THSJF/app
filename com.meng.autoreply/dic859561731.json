@@ -3,6 +3,7 @@
 "\\[CQ:sign": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
 "大鸽.*更.*了.*[吗|么|没]":["image:pic/dagegengxin.jpg:--image--"], 
 "搬砖":["imageFolder:pic/搬砖/:--image--"],
+"去.*打.*(麻将|雀魂)": ["image:pic/majiang.jpg:--image--"],
 "抽奖":["imageFolder:sign/dnf/:抽奖成功，这是你的抽奖结果--image--"],
 "害怕": ["不怕 姐姐给你膝枕"],
 "[真好]冷": ["暖暖"],

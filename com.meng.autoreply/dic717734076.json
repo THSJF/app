@@ -3,5 +3,6 @@
 "签到": ["imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
 "人品测试": ["imageFolder:sign/dnf/:测试成功，这是你的测试结果--image--"],
 "\\[CQ:sign": ["imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
+"去.*打.*(麻将|雀魂)": ["image:pic/majiang.jpg:--image--"],
 "搬砖":["imageFolder:pic/搬砖/:--image--"]
 }

@@ -2,6 +2,7 @@
 "这里是":["紫苑群"],
 "\\[CQ:sign": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
 "搬砖":["imageFolder:pic/搬砖/:--image--"],
+"去.*打.*(麻将|雀魂)": ["image:pic/majiang.jpg:--image--"],
 "大鸽.*更.*了.*[吗|么|没]":["image:pic/dagegengxin.jpg:--image--"], 
 "绀珠传": ["th15.exe=心之所在播放器+纯符猴猴乐","image:pic/th15.png:--image--"],
 "星莲船": ["th12.exe=春之岸边播放器&esc+r","image:pic/th12.jpg:--image--"],
