@@ -4,6 +4,7 @@
 "\\[CQ:sign": ["imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
 "大鸽.*更.*了.*[吗|么|没]":["image:pic/dagegengxin.jpg:--image--"], 
 "搬砖":["imageFolder:pic/搬砖/:--image--"],
+"雀魂3q1": ["image:pic/majiang.jpg:--image--"],
 "去.*打.*(麻将|雀魂)": ["image:pic/majiang.jpg:--image--"],
 "^((https|http|ftp|rtsp|mms)?:\\/\\/)[^\\s]": ["这网址还行"], 
 "去.*打.*[红妖永花风殿船庙城绀璋]": ["imageFolder:pic/sjf/:--image--"],
