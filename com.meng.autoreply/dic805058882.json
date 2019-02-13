@@ -1,0 +1,8 @@
+﻿{
+"这里是":["发发发"],
+"\\[CQ:sign": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
+"搬砖":["imageFolder:pic/搬砖/:--image--"],
+"雀魂(3q1|友人房)": ["image:pic/majiang.jpg:--image--"],
+"去.*打.*(麻将|雀魂)": ["image:pic/majiang.jpg:--image--"],
+"色图":["imageFolder:r15/:--image--"]
+}
