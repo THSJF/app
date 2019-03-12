@@ -1,7 +1,7 @@
 { 
 "实门弄天":["imageFolder:实门弄天/:--image--"],
-"\\[CQ:sign": ["imageFolder:sign/touhou/:--image--",CQ:sign": ["imageFolder:sign/ufo/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
-"签到": ["imageFolder:sign/touhou/:--image--",CQ:sign": ["imageFolder:sign/ufo/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
+"\\[CQ:sign": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/ufo/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
+"签到": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/ufo/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
 "发发发":["imageFolder:pic/sjf/:--image--","imageFolder:pic/sjf/:--image--","发发发"],
 "你稳了":["imageFolder:pic/sjf/:--image--"],
 "为什么":["image:pic/why.jpg:--image--"],
