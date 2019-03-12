@@ -1,6 +1,5 @@
 ﻿{
-"这里是":["妖妖梦群"],
-"\\[CQ:sign": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
+"这里是":["妖妖梦群"], 
 "搬砖":["imageFolder:pic/搬砖/:--image--"],
 "我[是|事].*萌新": ["atFromQQ:你已经是群萌新了 快打个妖LNNN给群友们看看吧"],
 "^((https|http|ftp|rtsp|mms)?:\\/\\/)[^\\s]": ["这网址还行"], 
