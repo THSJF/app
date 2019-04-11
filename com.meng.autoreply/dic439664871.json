@@ -1,10 +1,1 @@
-﻿{
-"这里是":["妖妖梦群"], 
-"搬砖":["imageFolder:pic/搬砖/:--image--"],
-"我[是|事].*萌新": ["atFromQQ:你已经是群萌新了 快打个妖LNNN给群友们看看吧"],
-"^((https|http|ftp|rtsp|mms)?:\\/\\/)[^\\s]": ["这网址还行"], 
-"去.*打.*[红妖永花风殿船庙城绀璋]": ["imageFolder:pic/sjf/:--image--"],
-"雀魂(3q1|友人房)": ["imageFolder:pic/majiang/:--image--"],
-"去.*打.*(麻将|雀魂)": ["imageFolder:pic/majiang/:--image--"],
-"magnet:\\?xt=urn:btih": ["f73d08e360da9ef46b5de581a76a0db59eecfac6"]
-}
+{"这里是":["妖妖梦群"],"搬砖":["imageFolder:pic/搬砖/:--image--"],"我[是|事].*萌新":["atFromQQ:你已经是群萌新了 快打个妖LNNN给群友们看看吧"],"^((https|http|ftp|rtsp|mms)?:\\/\\/)[^\\s]":["这网址还行"],"去.*打.*[红妖永花风殿船庙城绀璋]":["imageFolder:pic/sjf/:--image--"],"雀魂(3q1|友人房)":["imageFolder:pic/majiang/:--image--"],"去.*打.*(麻将|雀魂)":["imageFolder:pic/majiang/:--image--"],"magnet:\\?xt\u003durn:btih":["f73d08e360da9ef46b5de581a76a0db59eecfac6"]}
