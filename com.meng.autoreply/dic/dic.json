@@ -1,4 +1,4 @@
-{ 
+﻿{ 
 "实门弄天":["imageFolder:实门弄天/:--image--"],
 "\\[CQ:sign": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/ufo/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
 "签到": ["imageFolder:sign/touhou/:--image--","imageFolder:sign/ufo/:--image--","imageFolder:sign/dnf/:签到成功，这是你的签到奖励--image--"],
@@ -25,5 +25,6 @@
 "[CQ:image,file=C3BDDCE369F1FCFB01C15264F86A5ED1.jpg]":["red:1"],
 "[CQ:image,file=8A1F03198A1A8E7293DAE38A2BB99C0E.jpg]":["red:1"],
 "[CQ:image,file=4D8CB5AD787A5ECDF1F271E8C5545023.jpg]":["red:1"],
-"tcdbw":["naboyay"]
+"tcdbw":["naboyay"],
+"扔骰子":["[CQ:dice,type\u003d1]","[CQ:dice,type\u003d2]","[CQ:dice,type\u003d3]","[CQ:dice,type\u003d4]","[CQ:dice,type\u003d5]","[CQ:dice,type\u003d6]"]
 }
